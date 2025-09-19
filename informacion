@@ -1,24 +1,21 @@
+
 Contexto
-La necesidad surge porque muchas personas buscan una forma práctica de organizar, compartir y modificar recetas de cocina, además de contar con un sistema que les permita consultar fácilmente los ingredientes y materiales.
-La aplicación web Cocina Web brindará un espacio accesible para que los usuarios puedan interactuar con recetas propias y de la comunidad, fomentando la creatividad gastronómica y el intercambio de conocimientos culinarios.
+Muchas personas necesitan una forma práctica de organizar, compartir y modificar recetas. Cocina Web ofrece un espacio sencillo donde los usuarios pueden publicar recetas usando solo su nombre, consultar ingredientes y materiales, y colaborar con la comunidad culinaria.
 
-3) Tecnologías
+Tecnologías
 Frontend:
-•	HTML (estructura de las páginas).
-•	CSS (estilos y diseño visual).
-•	JavaScript (interactividad).
-•	Bootstrap (diseño moderno y responsivo).
+•	HTML → estructura de las páginas.
+•	CSS → estilos y diseño visual.
+•	JavaScript → interactividad.
+•	Bootstrap → diseño moderno y responsivo.
 Backend:
-•	Python (lenguaje principal).
-•	Flask (framework web ligero).
-•	Jinja2 (motor de plantillas para integrar datos en HTML).
+•	Python → lenguaje principal.
+•	Flask → framework web ligero.
+•	Jinja2 → motor de plantillas.
 Base de Datos:
-•	SQLite (almacenamiento de recetas, ingredientes y usuarios).
-•	SQLAlchemy (ORM para gestionar la base de datos desde Python).
-Otras:
-•	Librerías de autenticación (para registro y login de usuarios).
-•	Sistema de comentarios y valoraciones de recetas.
+•	SQLite → almacenamiento de recetas, ingredientes y usuarios.
+•	SQLAlchemy → ORM para gestionar la base de datos.
 
-4) Área
-Área de aplicaciones web, específicamente orientadas a la gastronomía y organización personal, ofreciendo una herramienta digital para mejorar la experiencia culinaria y el manejo de recetas.
+ Área
+Área de aplicaciones web enfocadas en la gastronomía y la organización personal, para mejorar la experiencia culinaria y el manejo de recetas.
 
