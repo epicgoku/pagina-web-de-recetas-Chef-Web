@@ -1,0 +1,24 @@
+Contexto
+La necesidad surge porque muchas personas buscan una forma práctica de organizar, compartir y modificar recetas de cocina, además de contar con un sistema que les permita consultar fácilmente los ingredientes y materiales.
+La aplicación web Cocina Web brindará un espacio accesible para que los usuarios puedan interactuar con recetas propias y de la comunidad, fomentando la creatividad gastronómica y el intercambio de conocimientos culinarios.
+
+3) Tecnologías
+Frontend:
+•	HTML (estructura de las páginas).
+•	CSS (estilos y diseño visual).
+•	JavaScript (interactividad).
+•	Bootstrap (diseño moderno y responsivo).
+Backend:
+•	Python (lenguaje principal).
+•	Flask (framework web ligero).
+•	Jinja2 (motor de plantillas para integrar datos en HTML).
+Base de Datos:
+•	SQLite (almacenamiento de recetas, ingredientes y usuarios).
+•	SQLAlchemy (ORM para gestionar la base de datos desde Python).
+Otras:
+•	Librerías de autenticación (para registro y login de usuarios).
+•	Sistema de comentarios y valoraciones de recetas.
+
+4) Área
+Área de aplicaciones web, específicamente orientadas a la gastronomía y organización personal, ofreciendo una herramienta digital para mejorar la experiencia culinaria y el manejo de recetas.
+
